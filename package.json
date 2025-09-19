@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/pariatur-rem-accusantium-et",
-  "version": "12.47.456",
+  "version": "12.47.457",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -373,5 +373,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/pariatur-rem-accusantium-et/issues"
   },
-  "packageManager": "yarn@4.9.4"
+  "packageManager": "yarn@4.10.2"
 }
